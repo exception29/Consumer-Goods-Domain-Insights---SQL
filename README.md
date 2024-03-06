@@ -2,6 +2,9 @@
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions.
 
+### CTE, aggregate functions, joins, subqueries, window functions are used to solve the queries.
+
+
 There are 10 ad-hoc requests for which the business needs insights.
 
 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
@@ -15,4 +18,3 @@ There are 10 ad-hoc requests for which the business needs insights.
 9. Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution? The final output contains these fields, channel gross_sales_mln percentage
 10. Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? The final output contains these fields, division product_code,product total_sold_quantity rank_order
 
-### CTE, aggregate functions, joins, subqueries, window functions are used to solve the above queries.
